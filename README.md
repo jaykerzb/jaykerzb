@@ -17,7 +17,7 @@
 ### 🕵🏻‍♂️ Security and Vulnerability Analysis
 - [Security and Vulnerability Analysis on Google Gruyere using ZAP](link)
 
-## ✅ These are my current certifications I hold:
+## ✅ These are the current certifications / credentials I hold:
 
 ### 🌎 Google:
 - [Google Data Analytics Professional Ceritificate](https://www.credly.com/badges/6549014f-9c42-4557-a945-4506f3471392/public_url)
