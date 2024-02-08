@@ -15,7 +15,7 @@
 - [Vigenère Cipher](link)
 
 ### 🕵🏻‍♂️ Security and Vulnerability Analysis
-- [Security and Vulnerability Analysis on Google Gruyere using ZAP](link)
+- [Security and Vulnerability Analysis on Google Gruyere using ZAP](https://github.com/jaykerzb/VulnerabilityScanningWithZAP)
 
 ## ✅ These are the current certifications / credentials I hold:
 
