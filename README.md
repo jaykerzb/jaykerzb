@@ -11,8 +11,8 @@
 ## 🛠️ These are some of my current projects I am working on or have completed:
 
 ### 🐍 Python:
-- [Caesar Cipher](link)
-- [Vigenère Cipher](link)
+- [Caesar Cipher](https://github.com/jaykerzb/CaesarCipher)
+- [Vigenère Cipher](https://github.com/jaykerzb/VigenereCipher)
 
 ### 🕵🏻‍♂️ Security and Vulnerability Analysis
 - [Security and Vulnerability Analysis on Google Gruyere using ZAP](https://github.com/jaykerzb/VulnerabilityScanningWithZAP)
