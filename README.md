@@ -13,6 +13,7 @@
 ### 🐍 Python:
 - [Caesar Cipher](https://github.com/jaykerzb/CaesarCipher)
 - [Vigenère Cipher](https://github.com/jaykerzb/VigenereCipher)
+- [Binary and Denary Converter](https://github.com/jaykerzb/BinaryConverter)
 
 ### 🕵🏻‍♂️ Security and Vulnerability Analysis
 - [Security and Vulnerability Analysis on Google Gruyere using ZAP](https://github.com/jaykerzb/VulnerabilityScanningWithZAP)
