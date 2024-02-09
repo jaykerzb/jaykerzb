@@ -27,4 +27,4 @@
 ### 💯 CompTIA:
 - [CompTIA A+ Certification](https://www.credly.com/badges/80a538c4-fa7c-452c-a3d7-361f943b9c97/public_url)
 ### 🛜 Cisco:
-- [CCNA](https://www.credly.com/badges/9e6dc6ff-9b98-49d3-9524-575e15cf6edd/public_url)
+- [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/9e6dc6ff-9b98-49d3-9524-575e15cf6edd/public_url)
