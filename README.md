@@ -2,11 +2,11 @@
 ### I am a current cybersecurity student studying at Collin College working towards my Bachelor of Applied Technology - Cybersecurity. I love the field of cybersecurity and will be dumping a lot of my projects here as a sort of student portfolio, as well as other security and technology related projects i find myself passionate about.
 
 ## 📚 I am currently working on:
-- Security+ Certification
-- Cryptography
-- Mobile Device Forensics
-- Cyber Crime
-- Advanced Network Protocols and Topologies
+- CySA+ Certification
+- AI Development and Use Cases
+- Cloud Security and Networking
+- Cyber Defense Operations and Incident Response Lifecycles
+- Informtion Assurance Policies
 
 ## 🛠️ These are some of my current projects I am working on or have completed:
 
