@@ -42,7 +42,7 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 
 ### 🕵🏻‍♂️ Security and Vulnerability Analysis
 - [**Security and Vulnerability Analysis on Google Gruyere using ZAP**](https://github.com/jaykerzb/VulnerabilityScanningWithZAP)
-- **OWASP Juice Shop - Red Team Online CTF**
+- [**OWASP Juice Shop - Red Team Online CTF**](https://github.com/jaykerzb/OWASPJuiceShop)
 
 ### 🔬 Home Laboratory - Security Architecture and Design
 - **Getting Setup with Proxmox**
