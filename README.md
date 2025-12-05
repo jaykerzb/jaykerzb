@@ -46,7 +46,7 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 - [**Security and Vulnerability Analysis on Google Gruyere using ZAP**](https://github.com/jaykerzb/VulnerabilityScanningWithZAP)
 - [**OWASP Juice Shop - Red Team Online CTF**](https://github.com/jaykerzb/OWASPJuiceShop)
 - **Penetration Testing with Kali Linux and Metasploitable VM**
-- **Splunk Boss of the SOC (BOTS) - Blue Team Online Capture the Flag**
+- **Splunk Boss of the SOC (BOTS) - Blue Team Online CTF**
 ### 🔬 Home Laboratory - Security Architecture and Design
 - [**Getting Setup with Proxmox**](https://github.com/jaykerzb/Proxmox)
   - **Virtualization with Linux, Windows, and LXCs**
