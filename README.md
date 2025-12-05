@@ -21,6 +21,8 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 
 ## 📚 I am currently working on:
 - CySA+ Certification
+- TAISE Certification
+- CISSP Associate Certification
 - AI Development and Use Cases Questionnaire for AI Use Cases and GRC
 - Cloud Security and Networking
 
@@ -43,7 +45,8 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 ### 🕵🏻‍♂️ Security and Vulnerability Analysis
 - [**Security and Vulnerability Analysis on Google Gruyere using ZAP**](https://github.com/jaykerzb/VulnerabilityScanningWithZAP)
 - [**OWASP Juice Shop - Red Team Online CTF**](https://github.com/jaykerzb/OWASPJuiceShop)
-
+- **Penetration Testing with Kali Linux and Metasploitable VM**
+- **Splunk Boss of the SOC (BOTS) | Blue Team Online Capture the Flag**
 ### 🔬 Home Laboratory - Security Architecture and Design
 - [**Getting Setup with Proxmox**](https://github.com/jaykerzb/Proxmox)
   - **Virtualization with Linux, Windows, and LXCs**
