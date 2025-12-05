@@ -33,7 +33,7 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 - **SouthState Bank – Information Security Quick Guide for Adults 65+**
 
 ### 🖥️ Artificial Intelligence
-- **Senior Capstone: Security Awareness AI LLM Using Ollama, Open WebUI and OpenVPN**
+- [**Senior Capstone: Security Awareness AI LLM Using Ollama, Open WebUI and OpenVPN**](https://github.com/jaykerzb/SeniorCapstone)
 
 ### 🐍 Python:
 - [**Caesar Cipher**](https://github.com/jaykerzb/CaesarCipher)
