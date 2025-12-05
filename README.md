@@ -1,12 +1,12 @@
 # 👋🏻 Hey, I'm Jake!
-### I am a current cybersecurity student studying at Collin College working towards my Bachelor of Applied Technology - Cybersecurity. I love the field of cybersecurity and will be dumping a lot of my projects here as a sort of student portfolio, as well as other security and technology related projects i find myself passionate about.
+### I am a recent college graduate with almost two years cybersecurity experience in the financial services/banking industry. I am dedicated to my work, enjoy communicating and working in teams, and am knowledgeable on a variety of topics. 
+I have experience in the cybersecurity education and awareness side of things with phishing simulations, newsletters and communications, live in-person training, as well as virtual team member/customer training.
+Additionally, I have experience with Artificial Intelligence systems in terms of Governance and Risk Assessment.
 
 ## 📚 I am currently working on:
 - CySA+ Certification
 - AI Development and Use Cases
 - Cloud Security and Networking
-- Cyber Defense Operations and Incident Response Lifecycles
-- Informtion Assurance Policies
 
 ## 🛠️ These are some of my current projects I am working on or have completed:
 
@@ -26,5 +26,12 @@
 - [Google IT Support Professional Certificate](https://www.credly.com/badges/eeed7696-907f-4098-b419-ff8a733b5140/public_url)
 ### 💯 CompTIA:
 - [CompTIA A+ Certification](https://www.credly.com/badges/80a538c4-fa7c-452c-a3d7-361f943b9c97/public_url)
+- [CompTIA Security+ Certification](https://www.credly.com/badges/80a538c4-fa7c-452c-a3d7-361f943b9c97/public_url)
+- CompTIA CySA+ Certification (In Progress)
 ### 🛜 Cisco:
 - [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/9e6dc6ff-9b98-49d3-9524-575e15cf6edd/public_url)
+
+### 🎨 Adobe:
+- Illustrator CC
+- Photoshop CC
+- InDesign CC
