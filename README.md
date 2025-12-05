@@ -45,8 +45,8 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 - [**OWASP Juice Shop - Red Team Online CTF**](https://github.com/jaykerzb/OWASPJuiceShop)
 
 ### 🔬 Home Laboratory - Security Architecture and Design
-- **Getting Setup with Proxmox**
-- **Virtualization with Linux, Windows, and LXCs**
+- [**Getting Setup with Proxmox**](https://github.com/jaykerzb/Proxmox)
+  - **Virtualization with Linux, Windows, and LXCs**
 - **Configuring networks via Cisco Switches**
 
 ## ✅ These are the current certifications / credentials I hold:
