@@ -1,11 +1,26 @@
 # 👋🏻 Hey, I'm Jake!
 ### I am a recent college graduate with almost two years cybersecurity experience in the financial services/banking industry. I am dedicated to my work, enjoy communicating and working in teams, and am knowledgeable on a variety of topics. 
-I have experience in the cybersecurity education and awareness side of things with phishing simulations, newsletters and communications, live in-person training, as well as virtual team member/customer training.
-Additionally, I have experience with Artificial Intelligence systems in terms of Governance and Risk Assessment.
+### I have experience in the cybersecurity education and awareness side of things with phishing simulations, newsletters and communications, live in-person training, as well as virtual team member/customer training.
+### Additionally, I have experience with Artificial Intelligence systems in terms of Governance and Risk Assessment.
+
+## These are some of my current skills with their underlying accomplishments:
+
+- **Phishing Simulations** – Runs the phishing simulation and security awareness platform, KnowBe4.
+- **AI Governance and Risk Assessment** – Creates and utilizes documentation to assess risk for upcoming AI systems to be implemented in production environments. SOC Type 1 and Type 2 reports and AI Whitepapers are utilized to gather data and assess risk.
+- **Communications** – Generates monthly newsletters for employees on current cyber landscape, current relevant threats, and upcoming predictions for the year. Data is gathered from internal CTI teams.
+- **Graphic Design** – Creates internal pamphlets and graphics that engage users and drive security culture internally. Additionally, external pamphlets have been created for adults, families, and seniors.
+- **Cloud Architecture** – Worked with IT and Cloud Security to implement and configure the KnowBe4 platform to production environment.
+- **Documentation** – Documented all processes involving KnowBe4 platform setup, to creating and running phishing campaigns, training, generating groups, etc.
+- **Change Management** – Generated and submitted documentation to a change board, argued for the implementation for the KnowBe4 platform.
+
+### These are my current educational achievements:
+
+- **Bachelor of Applied Technology – Cybersecurity** | Graduates Dec 2025 | GPA 3.755
+- **Associate of Applied Science – Information Systems Cybersecurity** | Graduated Dec 2023
 
 ## 📚 I am currently working on:
 - CySA+ Certification
-- AI Development and Use Cases
+- AI Development and Use Cases Questionnaire for AI Use Cases and GRC
 - Cloud Security and Networking
 
 ## 🛠️ These are some of my current projects I am working on or have completed:
