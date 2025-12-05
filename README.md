@@ -69,3 +69,6 @@ Additionally, I have experience with Artificial Intelligence systems in terms of
 - **Illustrator CC**
 - **Photoshop CC**
 - **InDesign CC**
+
+## 📄 Attached Here is my Current Resume:
+[Jacob Burke - Resume 2026.pdf](https://github.com/user-attachments/files/23964143/Jacob.Burke.-.Resume.2026.pdf)
