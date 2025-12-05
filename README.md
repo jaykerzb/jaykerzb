@@ -1,7 +1,7 @@
 # 👋🏻 Hey, I'm Jake!
-### I am an almost college graduate with nearly two years cybersecurity experience in the financial services/banking industry. I am dedicated to my work, enjoy communicating and working in teams, and am knowledgeable on a variety of topics. 
-### I have experience in the cybersecurity education and awareness side of things with phishing simulations, newsletters and communications, live in-person training, as well as virtual team member/customer training.
-### Additionally, I have experience with Artificial Intelligence systems in terms of Governance and Risk Assessment.
+**I am an almost college graduate with nearly two years cybersecurity experience in the financial services/banking industry. I am dedicated to my work, enjoy communicating and working in teams, and am knowledgeable on a variety of topics. 
+I have experience in the cybersecurity education and awareness side of things with phishing simulations, newsletters and communications, live in-person training, as well as virtual team member/customer training.
+Additionally, I have experience with Artificial Intelligence systems in terms of Governance and Risk Assessment.**
 
 ## 🧠 These are some of my current  technical skills with their underlying accomplishments:
 - **Phishing Simulations** – Runs the phishing simulation and security awareness platform, KnowBe4.
